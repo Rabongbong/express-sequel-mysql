@@ -1,5 +1,5 @@
  
-$ git clone https://github.com/Yangheesoo/express-sequel-mysql.git
+$ git clone https://github.com/Rabongbong/express-sequel-mysql.git
 
 npm install
 
